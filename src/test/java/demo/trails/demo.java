@@ -6,7 +6,9 @@ public class demo {
 System.out.println("hi");
 
 System.out.println("hello");
-
+b();
 	}
-
+public static void b() {
+	System.out.println("honey");
+}
 }
