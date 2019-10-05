@@ -11,4 +11,8 @@ b();
 public static void b() {
 	System.out.println("honey");
 }
+
+public static void c() {
+	System.out.println("himanshu");
+}
 }
